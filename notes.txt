@@ -1,0 +1,14 @@
+1> letter spacing css property is used to provide space between each letter.
+
+2> css animation ko tym khatam hone pe wo wapis apne original ya initial state me aa jata h .
+
+3> this is diffrnt than css transition ....isme wapis initial state me nai aata. permanet chnge hota h ye.
+
+4> e.clientX ---> x cordinate dega viewprt ka.
+
+5> e.clientY ---> y cordinate dega viewprt ka.
+
+6> e.target.offsetTop--> element ka viewport k top se distance dega
+
+6> e.target.offsetLeft--> element ka viewport k left se distance dega
+
