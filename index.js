@@ -1,4 +1,3 @@
-const circle = document.getElementById("circle");
 const btn = document.getElementById("btn");
 
 
